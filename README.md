@@ -5,7 +5,7 @@
 </p>
 
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
-This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines. A software built by microsoft that essentially lets you manage thousands of user accounts in a single place. (Accounts, Passwords, Permissions) Provides a way to contol access to resources on a large scale. (Ex. A big workplace that has a bunch of employees working in 1 building)  <br />
+This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines. A software built by microsoft that essentially lets you manage thousands of user accounts in a single place. (Accounts, Passwords, Permissions) Provides a way to contol access to resources on a large scale. (Ex. A big workplace that has a bunch of employees & departments working in 1 building)  <br />
 
 
 <h2>Environments and Technologies Used</h2>
