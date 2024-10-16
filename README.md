@@ -29,6 +29,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Join Client 1 to your domain
 - Setup Remote Desktop for non-administrative Users & create a bunch of additional users using Power Shell
 - Group Policies & Managing accounts
+- Observing Logs
 
 <h2>Deployment and Configuration Steps</h2>
 
